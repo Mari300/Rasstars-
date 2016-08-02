@@ -1,0 +1,188 @@
+/*
+ Theme Name:   Jahmari Ras 
+ Theme URI:    http://yourwebsite.com/twentyfourteen-child/
+ Description:  My first child theme, based on Twenty Fourteen
+ Author:       Daniel Pataki
+ Author URI:   http://danielpataki.com
+ Template:     _tk-master
+ Version:      1.0.0
+ Tags:         black, green, white, light, dark, two-columns, three-columns, left-sidebar, right-sidebar, fixed-layout, responsive-layout, custom-background, custom-header, custom-menu, editor-style, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready, accessibility-ready, responsive-layout, infinite-scroll, post-slider, design, food, journal, magazine, news, photography, portfolio, clean, contemporary, dark, elegant, modern, professional, sophisticated
+ Text Domain:  twenty-fourteen-child
+*/
+body {
+  background-color : white ;
+}
+p {
+  color : white ;
+}
+.row {
+}
+.site-branding {
+	display : none ;
+}
+.sidebar.col-sm-12.col-md-4 {
+	display : none ;
+}
+.site-info {
+	display : none ;
+}
+.site-navigation-inner.col-sm-12 {
+	height : 50px ;
+}
+.navbar-brand {
+	position : fixed ;
+}
+a {
+	float : right ;
+}
+.alignnone.wp-image-7.size-medium {
+	height : 340px ;
+	width : 835px ; 
+	margin : 0px ;
+}
+.alignnone.size-full.wp-image-57,.alignnone.size-full.wp-image-60,.alignnone.size-full.wp-image-62 {
+	margin : 3px ;
+}
+.red-border-bottom {
+	color : black ;
+}
+.dark-text {
+	color : white ;
+}
+.section-legend {
+	color : white ;
+}
+h1 {
+	text-align: none ;
+	color : white ;
+}
+.entry-content {
+	color : white ;
+	font-size : 25px ;
+}
+li {
+	display : none ;
+}
+#alignnone #size-medium #wp-image-16 {
+
+}
+#readership-revenue {
+	color : white ;
+}
+.navbar-inverse {
+    color : white ;
+    border-color : white ;
+}
+a {
+	color : white ;
+	font-size : 25px ;
+	font-family : 'Passion One' , bold ;
+	text-align : right ;
+	padding-top : 60px ;
+}
+.container {
+	width : 100% ; 
+	padding : 0px ;
+}
+a.screen-reader-text.skip-link {
+	display : none ; 
+}
+#readership-revenue {
+	color : white ;
+}
+#navbar-collapse {
+	padding : 0px ;
+	background-color : white ;
+	width : 100% ;
+	background-image : url("header.jpg");
+	margin : 0px ;
+	border-width : 1px ;
+	border-color : white ;
+}
+.navbar-inverse .navbar-nav>li>a {
+	color : white ;
+	text-transform : bold ;
+}
+.page-title {
+	display : none ;
+}
+.jumbotron {
+background-image : url
+}
+.btn .btn-primary {
+	background-color : black 
+}
+h2 {
+	text-align : center ;
+} 
+}
+p.lead {
+	color : white ;
+}
+.alignnone.size-full.wp-image-53 {
+	height : 300px ;
+	width : 300px ;
+    border-radius : 15px ;
+}
+.carousel-inner {
+	padding : 0px 0px ;
+	height : 667px ;
+	width : 1000px ;
+}
+.left.carousel-control {
+	width : 37% ;
+	height : 667px ;
+}
+.right.carousel-control {
+	width : 37% ;
+	height : 667px ;
+}
+ .content-left-wrap.col-md-9 {
+ 	width : 59% ;
+	border-width : 25px ;
+	padding : 0px 0px 50px 0px; ;
+	background-color : black ;
+}
+.date.updated.published {
+	display : none ;
+}
+.fn {
+	display : none ;
+	background-color : blue ;
+}
+.container {
+	border-width : 25px ;
+	border : black ;
+}
+#main-nav {
+	color : white ;
+}
+.carousel-caption {
+	width : 60% ;
+	text-align : center ;
+}
+.entry-content {
+	width : 100% ;
+}
+#site-navigation { ;
+	width : 100%;
+}
+}
+#secondary.widget-title {
+	display : ;
+}
+.sidebar-wrap.col-md-3.content-left-wrap {
+	height : 667px ;
+	border-width : 1px ;
+	border-color : white ;
+	border-style : solid ;
+}
+.search-submit {
+	display : none ;
+}
+label {
+	display : none ;
+}
+.widget-title {
+	color : white ;
+}
